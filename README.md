@@ -52,10 +52,10 @@ My work approach is driven by creativity, efficiency, and continuous improvement
   <a href="https://www.linkedin.com/in/jesus-nomar-garcia-gonzalez-99b406305/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/tuusuario" target="_blank">
+  <a href="https://stackoverflow.com/users/31211972/nomar-garcia" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  <a href="https://reddit.com/u/tuusuario" target="_blank">
+  <a href="https://www.reddit.com/user/NomarGarcia-Eng/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 </p>
